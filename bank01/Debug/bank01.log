@@ -1,0 +1,6 @@
+﻿  Bank.cpp
+E:\bank_solution\bank01\Bank.cpp(30,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\bank_solution\bank01\Bank.cpp(57,23): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  bank01.vcxproj -> E:\bank_solution\bank01\Debug\bank01.exe
